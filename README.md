@@ -2,6 +2,9 @@
 
 # Status
 
+Only rendering part is implemented.
+
+SVG parsing and rendering code is based on relevant code in [Fabric.js](https://github.com/kangax/fabric.js). I'll add the necessary mentions ASAP.
 
 # Known Bugs
 
