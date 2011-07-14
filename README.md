@@ -19,7 +19,4 @@ relevent SVG elements are rendered.
     cd node-robohash
     node app.js
 
-You should see something like this at [http://localhost:3000](http://localhost:3000):
-
-![Random Robots](doc/example1.png)
-
+You should see something like [this](doc/example1.png) at [http://localhost:3000](http://localhost:3000):
