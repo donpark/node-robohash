@@ -6,10 +6,12 @@ Only rendering part is implemented.
 
 SVG parsing and rendering code is based on relevant code in [Fabric.js](https://github.com/kangax/fabric.js). I'll add the necessary mentions ASAP.
 
-# Known Bugs
+# Known Issues
 
 Background SVG files are not being rendered correctly, likely because
 relevent SVG elements are rendered.
+
+`svg.coffee` module is currently hardwired to handle Robohash SVG files and replaces specific color values with random color. This will be cleaned up and expanded later.
 
 # Installation
 
